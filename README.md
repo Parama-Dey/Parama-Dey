@@ -15,20 +15,18 @@
 ### 🚀 About Me
 
 - 💻 I’m currently focused on creating Projects in Python
-- 📱 Exploring 
-- 🎨 Passionate about 
-- 📚 Always eager to 
-- 📫 Reach me at [*youremail@example.com*](mailto:youremail@example.com) <!-- 👉 Replace with your email -->
+- 📱 Exploring New Languages 
+- 🎨 Passionate about Leaning and turning ideas into creative solutions
+- 📚 Always eager to- grow, collaborate, and share knowledge
+- 📫 Reach me at paramanova87@gmail.com<!-- 👉 Replace with your email -->
 
----
 
 ### 🌐 Connect With Me
 
 <p align="left">
   <!-- 👉 Replace all "username" or URLs below with your actual social handles -->
   <a href="https://linkedin.com/in/username" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://instagram.com/username" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://www.youtube.com/channel/your-channel-id" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="30"/></a>
+  
 </p>
 
 ---
@@ -64,7 +62,7 @@
 
 ### 📌 Current Goals
 
-- Build Calculator and Notepad in Python
+- Build 
 - Improve 
 - Collaborate more through *open-source projects*
 
